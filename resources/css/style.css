@@ -1,0 +1,23 @@
+.navbar,
+.btn {
+    background-color: #EFA861 !important;
+}
+
+
+.fondo-compartido {
+    min-height: 100vh;
+    background: linear-gradient(rgba(5, 7, 12, 0.75), rgba(5, 7, 12, 0.75)),
+        url('../img/fondo_index.jpg') no-repeat center center fixed;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.navbar {
+    width: 100%;
+}
+
+.card{
+    background-color:gainsboro;
+}
